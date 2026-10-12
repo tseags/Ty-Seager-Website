@@ -1,0 +1,10 @@
+.DS_Store
+.thumbnail
+*.dc.html
+support.js
+image-slot.js
+github.md
+_ds/
+uploads/
+.claude/
+node_modules/
