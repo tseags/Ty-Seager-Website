@@ -39,7 +39,7 @@ const CAMPAIGNS = [
     tag: 'Field Events at CrowdStrike',
     title: 'CrowdTour',
     impact: 'Generated 8-figures in pipeline',
-    overview: 'A 60-event global roadshow series. I was picked for the launch team and lead the Americas, which runs 25+ regional field events a year.',
+    overview: 'A 60-event global roadshow series. I was picked for the launch team to help orchestrate the Americas rollout — landing page builds, promotional targeting, and reporting dashboards — across 25+ regional field events a year.',
     role: [
       'City selection: I used data on where target accounts and contacts were located, plus open opportunities and pipeline by city, to find the regions with the most white space.',
       'Owned all Americas operations, including building registration pages and managing registration.',
@@ -418,7 +418,7 @@ function render() {
         <div class="words-head">
           <div>
             <span class="kicker">Kind words</span>
-            <h2 class="section-title">What Cross-Functional Partners Have to Say</h2>
+            <h2 class="section-title">What my Colleagues have to say</h2>
           </div>
           <div class="words-nav">
             <button type="button" class="btn btn-secondary btn-icon" id="car-prev" aria-label="Previous">${icon.prev}</button>
